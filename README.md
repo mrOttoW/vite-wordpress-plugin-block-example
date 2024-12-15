@@ -16,7 +16,7 @@ This repository demonstrates how the <a href="https://github.com/mrOttoW/vite-wo
     # or
     yarn install
     ```
-4. Create an initial build of the un-compiled files.
+4. Create an initial build from the uncompiled files.
     ```bash
     npm run build
     # or
