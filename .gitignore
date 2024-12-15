@@ -1,0 +1,11 @@
+composer.lock
+yarn.lock
+npm.lock
+node_modules/
+vendor/
+build/
+
+# Editor settings
+.vscode/settings.json
+.vscode/launch.json
+.idea/*

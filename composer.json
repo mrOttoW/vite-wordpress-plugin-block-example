@@ -1,0 +1,5 @@
+{
+    "require": {
+        "mrottow/vite-wordpress": "^0.1.0"
+    }
+}
