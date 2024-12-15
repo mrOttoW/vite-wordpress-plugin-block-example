@@ -1,4 +1,4 @@
-# create-vite-block
+# ⚡️ create-vite-block
 
 This repository demonstrates how the <a href="https://github.com/mrOttoW/vite-wordpress">vite-wordpress</a> node package and <a href="https://github.com/mrOttoW/vite-wordpress-php">vite-wordpress-php</a> composer package can be used within a WordPress plugin to create a block.
 
