@@ -35,4 +35,8 @@ This repository demonstrates how the <a href="https://github.com/mrOttoW/vite-wo
 If you're not using a traditional WordPress setup or want to use a different plugin folder/name, update the `base` in `vite.config.js`.
 
 ### Local environment / DDEV
-When using a local environment like DDEV, make sure to install the Node packages on the server via SSH and ensure the ports are exposed. For DDEV, you can use the following addon: https://github.com/mrOttoW/ddev-wordpress-vite
+When using a local environment like DDEV, make sure to install the Node packages on the server via SSH and ensure the ports are exposed.
+
+(Default port configured in Vite: `5173`). 
+
+For DDEV, you can use the following addon: https://github.com/mrOttoW/ddev-wordpress-vite
