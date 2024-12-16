@@ -29,8 +29,6 @@ This repository demonstrates how the <a href="https://github.com/mrOttoW/vite-wo
     yarn start
     ```
 
----
-
 ### Base
 If you're not using a traditional WordPress setup or want to use a different plugin folder/name, update the `base` in `vite.config.js`.
 
